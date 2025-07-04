@@ -166,6 +166,9 @@ bilibili.com##div.feed-card:has-text(小Lin说)
 bilibili.com##div.feed-card:has-text(伤心欲茄222)
 bilibili.com##div.feed-card:has-text(DD小水本人)
 bilibili.com##div.feed-card:has-text(SMTOWN)
+bilibili.com##div.feed-card:has-text(SHOLA小测佬)
+bilibili.com##div.feed-card:has-text(了in林)
+bilibili.com##div.feed-card:has-text(aespa)
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
 
