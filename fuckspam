@@ -171,7 +171,7 @@ bilibili.com##div.feed-card:has-text(了in林)
 bilibili.com##div.feed-card:has-text(aespa)
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
-
+bilibili.com##.recommended-swipe
 !没妈汽车恰饭号
 m.mydrivers.com##li:has-text(王略)
 m.mydrivers.com##li:has-text(落木)
