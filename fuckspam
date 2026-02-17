@@ -178,6 +178,7 @@ bilibili.com##div.feed-card:has-text(零7大王)
 bilibili.com##div.feed-card:has-text(aespa)
 bilibili.com##div.feed-card:has-text(DD小水本人)
 bilibili.com##div.feed-card:has-text(TF家族)
+bilibili.com##.bili-video-card:has-text(TF家族)
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
 bilibili.com##.recommended-swipe
