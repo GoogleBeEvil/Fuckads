@@ -147,7 +147,17 @@ bilibili.com##li.matrix.video-item:has-text(关爱小动物)
 bilibili.com##li.matrix.video-item:has-text(酷奇佳)
 bilibili.com##li.matrix.video-item:has-text(宠物小法老)
 bilibili.com##li.matrix.video-item:has-text(酷奇佳)
+
 !首页纯纯死妈垃圾流量号
+
+!不良生活习惯引导
+bilibili.com##div.feed-card:has-text(子文又饿了)
+bilibili.com##.bili-video-card:has-text(子文又饿了)
+bilibili.com##div.feed-card:has-text(米饭仙人FFyasueda)
+bilibili.com##.bili-video-card:has-text(米饭仙人FFyasueda)
+bilibili.com##div.feed-card:has-text(D咸鱼梦想家vlog)
+bilibili.com##.bili-video-card:has-text(咸鱼梦想家vlog)
+
 !小儿科伪技术流
 bilibili.com##div.feed-card:has-text(影视飓风)
 bilibili.com##.bili-video-card:has-text(影视飓风)
@@ -156,6 +166,7 @@ bilibili.com##.bili-video-card:has-text(何同学工作室)
 bilibili.com##div.feed-card:has-text(老师好我叫何同学)
 bilibili.com##.bili-video-card:has-text(老师好我叫何同学)
 bilibili.com##div.feed-card:has-text(亿点点不一样)
+
 !没活儿尴整
 bilibili.com##.bili-video-card:has-text(亿点点不一样)
 bilibili.com##div.feed-card:has-text(老番茄)
@@ -166,14 +177,17 @@ bilibili.com##div.feed-card:has-text(493260618106936)
 bilibili.com##.bili-video-card:has-text(493260618106936)
 bilibili.com##div.feed-card:has-text(涛哥玩配音)
 bilibili.com##.bili-video-card:has-text(涛哥玩配音)
+
 !娘炮太监
 bilibili.com##div.feed-card:has-text(Jenobaby)
 bilibili.com##.bili-video-card:has-text(Jenobaby)
 bilibili.com##div.feed-card:has-text(SMTOWN)
 bilibili.com##.bili-video-card:has-text(SMTOWN)
+
 !弱智标题AI
 bilibili.com##div.feed-card:has-text(秃草是真的)
 bilibili.com##.bili-video-card:has-text(秃草是真的)
+
 !长头发复读机
 bilibili.com##div.feed-card:has-text(小Lin说)
 bilibili.com##.bili-video-card:has-text(小Lin说)
@@ -198,6 +212,9 @@ bilibili.com##div.feed-card:has-text(棉白有点笨)
 bilibili.com##.bili-video-card:has-text(棉白有点笨)
 bilibili.com##div.feed-card:has-text(DD小水本人)
 bilibili.com##.bili-video-card:has-text(DD小水本人)
+
+
+
 
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
