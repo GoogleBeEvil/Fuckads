@@ -161,7 +161,7 @@ bilibili.com##.bili-video-card:has-text(咸鱼梦想家vlog)
 !小儿科伪技术流
 bilibili.com##div.feed-card:has-text(影视飓风)
 bilibili.com##.bili-video-card:has-text(影视飓风)
-bilibili.com##.floor-single-card:has-text(影视飓风)
+
 bilibili.com##div.feed-card:has-text(飓多多StormCrew)
 bilibili.com##.bili-video-card:has-text(飓多多StormCrew)
 bilibili.com##div.feed-card:has-text(何同学工作室)
@@ -170,6 +170,9 @@ bilibili.com##div.feed-card:has-text(老师好我叫何同学)
 bilibili.com##.bili-video-card:has-text(老师好我叫何同学)
 bilibili.com##div.feed-card:has-text(亿点点不一样)
 
+!卖茶叶的傻屄
+bilibili.com##.floor-single-card:has-text(影视飓风)
+bilibili.com##.floor-single-card:has-text(周六野Zoey)
 !没活儿尴整
 bilibili.com##.bili-video-card:has-text(亿点点不一样)
 bilibili.com##div.feed-card:has-text(老番茄)
@@ -198,6 +201,7 @@ bilibili.com##div.feed-card:has-text(小Lin竖着说)
 bilibili.com##.bili-video-card:has-text(小Lin竖着说)
 bilibili.com##div.feed-card:has-text(伤心欲茄)
 bilibili.com##.bili-video-card:has-text(伤心欲茄)
+
 !劣质MCN
 bilibili.com##div.feed-card:has-text(pcyxjy)
 bilibili.com##.bili-video-card:has-text(pcyxjy)
@@ -215,9 +219,6 @@ bilibili.com##div.feed-card:has-text(棉白有点笨)
 bilibili.com##.bili-video-card:has-text(棉白有点笨)
 bilibili.com##div.feed-card:has-text(DD小水本人)
 bilibili.com##.bili-video-card:has-text(DD小水本人)
-
-
-
 
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
