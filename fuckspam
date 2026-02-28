@@ -170,9 +170,13 @@ bilibili.com##div.feed-card:has-text(老师好我叫何同学)
 bilibili.com##.bili-video-card:has-text(老师好我叫何同学)
 bilibili.com##div.feed-card:has-text(亿点点不一样)
 
+!片汤文案转人工
+bilibili.com##div.feed-card:has-text(浪花姜)
+bilibili.com##.bili-video-card:has-text(浪花姜)
 !卖茶叶的傻屄
 bilibili.com##.floor-single-card:has-text(影视飓风)
 bilibili.com##.floor-single-card:has-text(周六野Zoey)
+
 !没活儿尴整
 bilibili.com##.bili-video-card:has-text(亿点点不一样)
 bilibili.com##div.feed-card:has-text(老番茄)
@@ -222,6 +226,7 @@ bilibili.com##.bili-video-card:has-text(DD小水本人)
 
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
+bilibili.com##div.floor-single-card:has-text(课堂)
 bilibili.com##.recommended-swipe
 !===========================================以上bilibili垃圾=======================================
 !没妈汽车恰饭号
