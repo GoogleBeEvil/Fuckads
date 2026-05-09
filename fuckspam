@@ -173,6 +173,7 @@ bilibili.com##div.feed-card:has-text(亿点点不一样)
 !片汤文案转人工
 bilibili.com##div.feed-card:has-text(浪花姜)
 bilibili.com##.bili-video-card:has-text(浪花姜)
+
 !卖茶叶的傻屄
 bilibili.com##.floor-single-card:has-text(影视飓风)
 bilibili.com##.floor-single-card:has-text(周六野Zoey)
@@ -223,7 +224,12 @@ bilibili.com##div.feed-card:has-text(棉白有点笨)
 bilibili.com##.bili-video-card:has-text(棉白有点笨)
 bilibili.com##div.feed-card:has-text(DD小水本人)
 bilibili.com##.bili-video-card:has-text(DD小水本人)
-
+!标题卖惨，建议一块看看脑子里的病
+bilibili.com##div.feed-card:has-text(fan人张)
+bilibili.com##.bili-video-card:has-text(fan人张)
+!剧本剧本过于生硬，做生意的都嫌你寒碜
+bilibili.com##div.feed-card:has-text(圆圆的智子)
+bilibili.com##.bili-video-card:has-text(圆圆的智子)
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
 bilibili.com##div.floor-single-card:has-text(课堂)
