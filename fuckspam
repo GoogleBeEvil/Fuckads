@@ -204,9 +204,11 @@ bilibili.com##div.feed-card:has-text(小Lin说)
 bilibili.com##.bili-video-card:has-text(小Lin说)
 bilibili.com##div.feed-card:has-text(小Lin竖着说)
 bilibili.com##.bili-video-card:has-text(小Lin竖着说)
+!劣质人脸动物配音
 bilibili.com##div.feed-card:has-text(伤心欲茄)
 bilibili.com##.bili-video-card:has-text(伤心欲茄)
-
+bilibili.com##div.feed-card:has-text(1402229439)
+bilibili.com##.bili-video-card:has-text(1402229439)
 !劣质MCN
 bilibili.com##div.feed-card:has-text(pcyxjy)
 bilibili.com##.bili-video-card:has-text(pcyxjy)
