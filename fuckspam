@@ -186,8 +186,7 @@ bilibili.com##div.feed-card:has-text(陈翔六点半)
 bilibili.com##.bili-video-card:has-text(陈翔六点半)
 bilibili.com##div.feed-card:has-text(493260618106936)
 bilibili.com##.bili-video-card:has-text(493260618106936)
-bilibili.com##div.feed-card:has-text(涛哥玩配音)
-bilibili.com##.bili-video-card:has-text(涛哥玩配音)
+
 
 !娘炮太监
 bilibili.com##div.feed-card:has-text(Jenobaby)
@@ -209,6 +208,9 @@ bilibili.com##div.feed-card:has-text(伤心欲茄)
 bilibili.com##.bili-video-card:has-text(伤心欲茄)
 bilibili.com##div.feed-card:has-text(1402229439)
 bilibili.com##.bili-video-card:has-text(1402229439)
+bilibili.com##div.feed-card:has-text(涛哥玩配音)
+bilibili.com##.bili-video-card:has-text(涛哥玩配音)
+
 !劣质MCN
 bilibili.com##div.feed-card:has-text(pcyxjy)
 bilibili.com##.bili-video-card:has-text(pcyxjy)
@@ -226,12 +228,19 @@ bilibili.com##div.feed-card:has-text(棉白有点笨)
 bilibili.com##.bili-video-card:has-text(棉白有点笨)
 bilibili.com##div.feed-card:has-text(DD小水本人)
 bilibili.com##.bili-video-card:has-text(DD小水本人)
+
 !标题卖惨，建议一块看看脑子里的病
 bilibili.com##div.feed-card:has-text(fan人张)
 bilibili.com##.bili-video-card:has-text(fan人张)
+
 !剧本剧本过于生硬，做生意的都嫌你寒碜
 bilibili.com##div.feed-card:has-text(圆圆的智子)
 bilibili.com##.bili-video-card:has-text(圆圆的智子)
+!狗男女迟早塌台
+bilibili.com##div.feed-card:has-text(2342793)
+bilibili.com##.bili-video-card:has-text(2342793)
+bilibili.com##div.feed-card:has-text(285571498)
+bilibili.com##.bili-video-card:has-text(285571498)
 !首页野鸡
 bilibili.com##div.floor-single-card:has-text(直播中)
 bilibili.com##div.floor-single-card:has-text(课堂)
